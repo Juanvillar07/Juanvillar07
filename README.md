@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **jvillar747@gmail.com**
 
-- ⚡ What I like to do: I like so much reading, basketball, futbol, astronomy ...and coding of course**
+- ⚡ What I like to do: I like so much reading, basketball, soccer, astronomy ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
