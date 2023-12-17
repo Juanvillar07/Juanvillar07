@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate Backend and Front-End developer from Colombia</h3>
 
-- 🔭 I’m currently working on my **Node JS Course**
+- 🔭 I’m currently working on my **.NET Course**
 
-- 🌱 I’m currently learning **Node JS and React JS**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
