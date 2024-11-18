@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Juan José <img height="40" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"></h1>
 
+
 <h3>About me</h3>
 
 - 🔭 I’m currently working on my **.NET and Node Js Courses**
@@ -52,14 +53,23 @@
    <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
+  <a href="https://es.react.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
+  <a href="https://expressjs.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
+  <a href="https://nodejs.org/en/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="git" width="40" height="40"/> 
+  </a>
+   <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postman.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="git" width="40" height="40"/> 
+  </a>
+   <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
