@@ -1,18 +1,5 @@
 <h1 align="center">Hi, I'm Juan José <img height="40" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"></h1>
 
-
-<h3>About me</h3>
-
-- 🔭 I’m currently working on my **.NET and Node Js Courses**
-
-- 🌱 I’m currently learning **React JS**
-
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
-- 📫 How to reach me: **jvillar747@gmail.com**
-
-- ⚡ What I like to do: I like so much reading, basketball, soccer, astronomy ...and coding of course**
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
