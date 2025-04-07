@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Juan José <img height="40" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"></h1>
+<h1 align="center">Hey, Soy Juan José <img height="40" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"></h1>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
