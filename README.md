@@ -1,17 +1,5 @@
 <h1 align="center">Hey, Soy Juan José <img height="40" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"></h1>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-villar-08853623b/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juanvillar107/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/Juanvillar107)
-  
-</div>
-
----
-
 ### Acerca de mí 🚀
 
 Soy un apasionado desarrollador web, estudiante de Ingeniería de Sistemas con una sólida orientación hacia el **desarrollo backend**, aunque también con experiencia en el **frontend**. A través de proyectos personales, he trabajado con tecnologías como **Node.js**, **Express**, **.NET**, **MySQL**, desarrollando APIs, estructuras de datos, control de acceso y lógica de negocio.
@@ -72,6 +60,16 @@ Disfruto enfrentar nuevos desafíos y mejorar continuamente mis habilidades. Me 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-villar-08853623b/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juanvillar107/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/Juanvillar107)
+  
+</div>
 
 
 
