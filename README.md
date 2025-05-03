@@ -10,7 +10,20 @@
   
 </div>
 
-<h3 align="center">Languages and Tools <img height="14" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></h3>
+---
+
+### Acerca de mí 🚀
+
+Soy un apasionado desarrollador web, estudiante de Ingeniería de Sistemas con una sólida orientación hacia el **desarrollo backend**, aunque también con experiencia en el **frontend**. A través de proyectos personales, he trabajado con tecnologías como **Node.js**, **Express**, **.NET**, **MySQL**, desarrollando APIs, estructuras de datos, control de acceso y lógica de negocio.
+
+Complemento mi perfil con habilidades en **frontend**, especialmente con **React** y **JavaScript**, lo que me permite comprender el flujo completo de una aplicación web y asegurar una integración eficiente entre el cliente y el servidor.
+
+Disfruto enfrentar nuevos desafíos y mejorar continuamente mis habilidades. Me motiva la colaboración en equipo, la búsqueda de soluciones innovadoras y el aprendizaje constante para seguir creando productos de calidad que aporten valor a los usuarios.
+
+---
+
+
+<h3 align="center">Lenguajes y habilidades <img height="14" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
