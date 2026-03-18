@@ -1,82 +1,95 @@
-<h1 align="center">Hey, Soy Juan José <img height="40" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"></h1>
+# `Juanvillar.js`
 
-### Acerca de mí 🚀
+## About me
 
-Soy un apasionado desarrollador web, estudiante de Ingeniería de Sistemas con una sólida orientación hacia el **desarrollo backend**, aunque también con experiencia en el **frontend**. A través de proyectos personales, he trabajado con tecnologías como **Node.js**, **Express**, **.NET**, **MySQL**, desarrollando APIs, estructuras de datos, control de acceso y lógica de negocio.
+I'm a Fullstack Developer and Systems Engineering student who's passionate about what I do, highly interested in backend development, building scalable APIs, continuous learning, and crafting clean solutions that make a real impact.
 
-Complemento mi perfil con habilidades en **frontend**, especialmente con **React** y **JavaScript**, lo que me permite comprender el flujo completo de una aplicación web y asegurar una integración eficiente entre el cliente y el servidor.
+**Soft Skills:** Problem Solving | Teamwork | Fast Learner | Communication | Adaptability | Self-Taught
 
-Disfruto enfrentar nuevos desafíos y mejorar continuamente mis habilidades. Me motiva la colaboración en equipo, la búsqueda de soluciones innovadoras y el aprendizaje constante para seguir creando productos de calidad que aporten valor a los usuarios.
+- 🎓 I am currently studying Systems Engineering in Colombia
+- 💻 I am currently working as a Software Developer
+- 🔧 I love building robust APIs and fullstack applications with Node.js, Express, .NET & React
+- 🚀 I am always learning new technologies and improving my skills
+- 📫 How to reach me: **jvillar747@gmail.com**
+
+<p>
+  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-villar-08853623b/">
+    <img src="https://img.shields.io/badge/FOLLOW_ON-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
+### Connect with me:
 
-<h3 align="center">Lenguajes y habilidades <img height="14" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></h3>
+<p> 
+  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-villar-08853623b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/juanvillar107/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/Juanvillar107" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-<p align="center"> 
+---
+
+### Languages and Tools:
+
+<p> 
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://dotnet.microsoft.com/es-es/" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="dotnet" width="40" height="40"/> 
+  </a>
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+  <a href="https://es.react.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-   <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="git" width="40" height="40"/> 
-  </a>
-   <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="git" width="40" height="40"/> 
-   </a>
-  <a href="https://dotnet.microsoft.com/es-es/" target="_blank"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="git" width="40" height="40"/> 
-  </a>
-   <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://es.react.dev/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="git" width="40" height="40"/> 
-  </a>
-   <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://www.postman.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="postman" width="40" height="40"/> 
   </a>
-   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="git" width="40" height="40"/> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> 
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+---
 
+### GitHub Stats:
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-villar-08853623b/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juanvillar107/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/Juanvillar107)
-  
-</div>
-
-
-
-
-------
-
-[Juanvillar07](https://github.com/Juanvillar07) 
-
-Last Edited on: 28/11/2023
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanvillar07&show_icons=true&theme=default&hide_border=true" alt="Juan José's GitHub Stats"/>
+</p>
