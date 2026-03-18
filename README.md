@@ -4,8 +4,6 @@
 
 I'm a Fullstack Developer and Systems Engineering student who's passionate about what I do, highly interested in backend development, building scalable APIs, continuous learning, and crafting clean solutions that make a real impact.
 
-**Soft Skills:** Problem Solving | Teamwork | Fast Learner | Communication | Adaptability | Self-Taught
-
 - 🎓 I am currently studying Systems Engineering in Colombia
 - 💻 I am currently working as a Software Developer
 - 🔧 I love building robust APIs and fullstack applications with Node.js, Express, .NET & React
